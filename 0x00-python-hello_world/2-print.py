@@ -1,2 +1,2 @@
-word = '"Programming is like building a multilingual puzzle';
-print(word);
+#!/bin/bash
+print('"Programming is like building a multilingual puzzle)
