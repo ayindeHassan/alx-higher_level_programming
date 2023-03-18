@@ -7,3 +7,5 @@ for (const entry in dict) {
   if (!output[dict[entry]]) output[dict[entry]] = [];
   output[dict[entry]].push(entry);
 }
+
+console.log(output);
